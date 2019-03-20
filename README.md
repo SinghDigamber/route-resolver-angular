@@ -1,5 +1,10 @@
 # RouteResolverAngular
 
+Angular 7 Route resolver fetches the data before the component is ready. Configure route resolvers from scratch with HttpClient service in Angular 7 | 8.
+
+## Step by step Tutorial
+[Understand Angular 7 Route Resolvers](https://www.positronx.io/angular-7-route-resolvers/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
 ## Development server
